@@ -76,8 +76,5 @@
   </form>
 </main>
 </div>
-<script>
-  window.eventListner
-    </script>
 
 <?php include "../include/footer.php" ?>
