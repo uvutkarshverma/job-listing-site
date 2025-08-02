@@ -7,7 +7,6 @@
 
 <h1 class="display-4 fw-bold text-center">Naukari Darpan</h1>
 <h2 class="display-4 my-3 text-center">New Post </h2>
-
 <form>
   <div class="mb-3">
   <label for="formGroupExampleInput" class="form-label">Title </label>
